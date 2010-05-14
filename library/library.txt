@@ -1,0 +1,24 @@
+Zend:
+
+
+Zend Framework 1.10.4
+
+
+
+Zend Framework requires PHP 5.2.4 or later.
+http://framework.zend.com/download/latest
+
+
+
+
+ZFXG:
+
+
+XFramework and Game 1.0.1
+
+
+
+requires PHP 5.2.4 or later.
+
+http://svn6.assembla.com/svn/New_Space/ZFXG/
+
