@@ -2,10 +2,11 @@ Zend:
 
 
 Zend Framework 1.10.4
+- 19.04.2011 updated to 1.11.5
 
 
 
-Zend Framework requires PHP 5.2.4 or later.
+Zend Framework requires PHP 5.3.0 or later.
 http://framework.zend.com/download/latest
 
 
@@ -14,11 +15,11 @@ http://framework.zend.com/download/latest
 ZFXG:
 
 
-XFramework and Game 1.0.1
+Heyaocms and XGame 2.0.1
 
 
 
-requires PHP 5.2.4 or later.
+requires PHP 5.3.0 or later.
 
 http://svn6.assembla.com/svn/New_Space/ZFXG/
 
